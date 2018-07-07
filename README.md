@@ -7,4 +7,4 @@ $ cd TodoApp
 $ npm install
 $ node app
 
-Them go to localhost:3000
+Then go to localhost:3000
