@@ -1,0 +1,18 @@
+{
+  "name": "node-js-plalist",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "jojo",
+  "license": "ISC",
+  "dependencies": {
+    "body-parser": "^1.18.2",
+    "ejs": "^2.5.9",
+    "express": "^4.16.3",
+    "mongoose": "^5.0.16",
+    "nodemon": "^1.17.3"
+  }
+}
