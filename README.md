@@ -1,10 +1,13 @@
 # TodoApp
 
 You must have npm and node js installed in order to launch the server.
-
-$ git clone https://github.com/jonathan-levy/TodoApp.git
-$ cd TodoApp
-$ npm install
+<br />
+$ git clone https://github.com/jonathan-levy/TodoApp.git <br />
+$ cd TodoApp <br />
+$ npm install <br />
 $ node app
 
-Then go to localhost:3000
+<br />
+<br />
+
+Then go with your browser to this url: localhost:3000
