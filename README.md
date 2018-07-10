@@ -10,4 +10,8 @@ $ node app
 <br />
 <br />
 
-Then go with your browser to this url: localhost:3000
+Then go with your browser to this url: localhost:3000/todos
+
+<br />
+
+![Alt Text](https://media.giphy.com/media/1qYHZihgIoDOmQcC43/giphy.gif)
