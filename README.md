@@ -10,7 +10,7 @@ $ node app
 <br />
 <br />
 
-Then go with your browser to this url: localhost:3000/todos
+Then go with your browser to this url: localhost:3000/todo
 
 <br />
 
